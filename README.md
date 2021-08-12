@@ -13,4 +13,4 @@ I edited some details with Inkscape and exported the vector to jpg
 The trailer came from Legendary's youtube channel
 <br><br>
 
-![Preview](https://raw.githubusercontent.com/CaioPride/Netflix_Landing_Page_UI_Design/main/Netflix_UI_Design/Preview.PNG "Preview")
+
