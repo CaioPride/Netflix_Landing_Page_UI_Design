@@ -11,4 +11,4 @@ The background came from wall.alphacoders
 I edited some details with Inkscape and exported the vector to jpg
 <br>
 
-![Preview](Netflix_Landing_Page_UI_Design/Netflix_UI_Design/Preview.png "Preview")
+![Preview](https://raw.githubusercontent.com/CaioPride/Netflix_Landing_Page_UI_Design/main/Netflix_UI_Design/Preview.PNG "Preview")
